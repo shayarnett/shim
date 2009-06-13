@@ -1,3 +1,4 @@
+" Shim
 " Shay's Vim color file
 " Maintainer:	Shay Arnett <shayarnett@gmail.com>
 " Last Change:	2009 Jun 12
@@ -15,7 +16,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "shay"
+let colors_name = "shim"
 
 " vim: sw=2
 hi clear Title
@@ -32,7 +33,7 @@ hi rubyStringDelimiter ctermfg=9
 hi Type ctermfg=1
 hi Function ctermfg=11
 hi LineNr ctermbg=12 ctermfg=8
-hi Comment ctermfg=8
+hi Comment ctermfg=11
 
 hi xmlTag ctermfg=11
 hi xmlTagName ctermfg=11
