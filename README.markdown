@@ -9,11 +9,8 @@ This theme is heavily inspired by the Railscasts textmate theme
 Install
 ---------------------------------
 
-You will need the SIMBL Color plugin for Terminal.app installed
+#1 [do this](http://ciaranwal.sh/2007/11/01/customising-colours-in-leopard-terminal)
 
-[do this](http://ciaranwal.sh/2007/11/01/customising-colours-in-leopard-terminal)
+#2 After installing you will need to load the included terminal profile.
 
-After installing you will need to load the included
-terminal profile.
-
-Then you can use this WICKED theme in all it's glory!!
+#3 Profit!!
