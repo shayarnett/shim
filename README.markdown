@@ -11,6 +11,6 @@ Install
 
 1. [do this](http://ciaranwal.sh/2007/11/01/customising-colours-in-leopard-terminal)
 
-2. After installing you will need to load the included terminal profile.
+2. Load the included Terminal.app profile.
 
 3. Profit!!
